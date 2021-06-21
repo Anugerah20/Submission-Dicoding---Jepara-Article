@@ -45,7 +45,7 @@ Berikut kriteria submission yang harus Anda penuhi:
   
   ## Dibuat Oleh
   
-  - Instagram - [Anugerah_Panegstu](https://www.instagram.com/anugerah_pangestu/)
+  - Instagram - [Anugerah_Pangegstu](https://www.instagram.com/anugerah_pangestu/)
   - Facebook - [Nabil](https://www.facebook.com/nabil.pangestu.359)
   
   ## Ucapan Terima kasih
