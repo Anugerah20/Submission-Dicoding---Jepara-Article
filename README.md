@@ -29,7 +29,7 @@ Berikut kriteria submission yang harus Anda penuhi:
   
   ### Screenshot
   
-  ![]()
+  ![](Assets/Image/screenshot.png)
   
   ### Links
   
