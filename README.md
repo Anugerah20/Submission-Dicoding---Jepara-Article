@@ -3,12 +3,12 @@ Ini adalah tugas akhir submission dicoding materi Belajar Dasar Pemrograman Webs
 
 ## Daftar Isi
 
--[Overview](#overview)
--[Kriteria Submission](#kriteria-submission)
--[Screenshot](#screenshot)
--[Links](#links)
+  -[Overview](#overview)
+    -[Kriteria Submission](#kriteria-submission)
+    -[Screenshot](#screenshot)
+    -[Links](#links)
 -[Proses Pembuatan](#proses-pembuatan)
--[Dibuat Dengan](#dibuat-dengan)
+    -[Dibuat Dengan](#dibuat-dengan)
 -[Dibuat Oleh](#Dibuat-oleh)
 -[Ucapan Terima Kasih](#ucapan-terima-kasih)
 
